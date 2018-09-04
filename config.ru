@@ -1,4 +1,5 @@
-# Write your code here!
-require './views'
+require 'sinatra'
+
+require_relative './app'
 
 run Application

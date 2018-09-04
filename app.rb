@@ -5,7 +5,7 @@ class Application < Sinatra::Base
   end
   # 
   # post '/greet' do
-  #   redirect: erb :greet
+  #  erb :greet
   # end
 
 end

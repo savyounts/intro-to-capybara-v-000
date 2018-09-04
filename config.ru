@@ -1,5 +1,5 @@
 # Write your code here!
-require './views'
+require './views/index'
 
 
 
